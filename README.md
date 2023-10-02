@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Vue and .Net<br>🌱 I’m currently learning Flutter
+🔭 I’m currently working on Angular and .Net<br>🌱 I’m currently learning Flutter
 
 
 # 💻 Tech Stack:
